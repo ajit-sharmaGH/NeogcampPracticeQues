@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #FFC67A;
+}
+
+#plus,
+#minus {
+    padding: 10px 73px 10px 73px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+#inputText {
+    color: green;
+    font-size: x-large;
+    padding: 10px 73px 10px 73px;
+    border-radius: 5px;
+}
