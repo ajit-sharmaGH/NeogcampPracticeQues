@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #FFC67A;
+}
+
+#input {
+    padding: 20px 62px 20px 62px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#green {
+    padding: 10px 63px 10px 63px;
+    background-color: green;
+}
+
+#blue {
+    padding: 10px 63px 10px 63px;
+    background-color: blue;
+}
+
+#red {
+    padding: 10px 63px 10px 63px;
+    background-color: red;
+}
